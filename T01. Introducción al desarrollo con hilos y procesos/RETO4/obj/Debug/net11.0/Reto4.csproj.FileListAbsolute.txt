@@ -1,0 +1,16 @@
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.exe
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.deps.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.runtimeconfig.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.runtimeconfig.dev.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\bin\Debug\net11.0\Reto4.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.AssemblyInfoInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.AssemblyInfo.cs
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.csproj.CoreCompileInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\refint\Reto4.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.genruntimeconfig.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\ref\Reto4.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto4\obj\Debug\net11.0\Reto4.csproj.Up2Date

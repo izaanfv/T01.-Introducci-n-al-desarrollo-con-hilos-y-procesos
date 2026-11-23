@@ -1,0 +1,16 @@
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.exe
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.deps.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.runtimeconfig.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.runtimeconfig.dev.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\bin\Debug\net11.0\Reto1.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.AssemblyInfoInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.AssemblyInfo.cs
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.csproj.CoreCompileInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\refint\Reto1.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.genruntimeconfig.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\ref\Reto1.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\RETO1\obj\Debug\net11.0\Reto1.csproj.Up2Date

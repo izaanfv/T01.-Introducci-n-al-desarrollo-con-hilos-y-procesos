@@ -1,0 +1,16 @@
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.exe
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.deps.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.runtimeconfig.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.runtimeconfig.dev.json
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\bin\Debug\net11.0\Reto3.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.AssemblyInfoInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.AssemblyInfo.cs
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.csproj.CoreCompileInputs.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\refint\Reto3.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.pdb
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.genruntimeconfig.cache
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\ref\Reto3.dll
+C:\Users\izanmrivas83\DAM2\VISUAL STUDIO\2222\Reto 3\obj\Debug\net11.0\Reto3.csproj.Up2Date
